@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Azan Reminder</string>
+    <string name="isha">Isha</string>
+    <string name="magrib">Magrib</string>
+    <string name="asor">Asor</string>
+    <string name="johor">Johor</string>
+    <string name="fajr">Fajr</string>
+    <string name="city">City</string>
+    <string name="pressure">Pressure</string>
+    <string name="temperature">Temperature</string>
+    <string name="check">Check</string>
+</resources>
