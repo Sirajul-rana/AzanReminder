@@ -1,4 +1,4 @@
-package com.example.rana.azanreminder;
+package com.example.rana.azanreminder.Models;
 
 
 import com.google.gson.annotations.SerializedName;

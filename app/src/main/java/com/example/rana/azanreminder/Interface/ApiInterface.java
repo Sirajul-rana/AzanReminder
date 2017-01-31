@@ -1,4 +1,6 @@
-package com.example.rana.azanreminder;
+package com.example.rana.azanreminder.Interface;
+
+import com.example.rana.azanreminder.Models.Azan;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
@@ -9,6 +11,6 @@ import retrofit2.http.Query;
  */
 public interface ApiInterface {
 
-    @GET("daily.json?api_key=696e7c952f1f62dae8b89d5765ab0ac7")
+    @GET("daily.json")
     Call<Azan> getAzanReport(@Query("api_key") String apiKey);
 }

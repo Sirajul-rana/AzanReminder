@@ -1,4 +1,4 @@
-package com.example.rana.azanreminder;
+package com.example.rana.azanreminder.Models;
 
 /**
  * Created by siraj on 01-Jan-17.
